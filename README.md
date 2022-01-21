@@ -1,2 +1,2 @@
-# sdss_mgii_absorber_catalogues
-MgII absorber catalogues from SDSS survey
+# SDSS MgII absorber catalogues
+MgII absorber catalogues produced using quasar spectra from the SDSS survey.
